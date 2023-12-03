@@ -1,5 +1,8 @@
 APLIKASI PENJUALAN PADA TOKO SEPATU ARION
 
+video presentasi : 
+https://youtu.be/kDPPmR01h1A
+
 Tampilan dashboard awal aplikasi
 ![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/a80d9fec-c506-4ef2-97e5-a85fe0418ef4)
 
