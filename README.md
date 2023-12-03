@@ -4,9 +4,6 @@ video presentasi :
 https://youtu.be/kDPPmR01h1A
 
 
-Tampilan Website
-![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/a80d9fec-c506-4ef2-97e5-a85fe0418ef4)
-
 Menu tampilan login
 ![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/f550ecf4-cfdd-4ace-aace-0bac67f6add9)
 
