@@ -1,4 +1,4 @@
-APLIKASI PENJUALAN PADA TOKO SEPATU ARION
+APLIKASI PENJUALAN PADA TOKO SEPATU ARION, aplikasi ini dibuat dengan bahasa pemrograman php dan database menggunakan MySql
 
 video presentasi : 
 https://youtu.be/kDPPmR01h1A
