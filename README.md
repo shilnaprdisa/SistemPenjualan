@@ -5,16 +5,30 @@ https://youtu.be/kDPPmR01h1A
 
 
 Tampilan Website
-
-
 ![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/a80d9fec-c506-4ef2-97e5-a85fe0418ef4)
-![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/7e5ec1c4-237d-400f-9fb3-937c3537709c)
-![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/3f89b5e5-9111-4103-90e5-3d3e9675f636)
-![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/2d9db3e7-3c9f-4e6b-8619-8e0ddb8988a8)
-![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/d8e2807c-20a5-4822-857c-ca185970cdad)
-![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/b5426683-0145-4660-9957-cc9b5c219432)
-![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/f9759398-8a29-4ae3-af6a-fda1a602bcaa)
-![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/6d96d240-a2f5-499f-897b-edef809817dc)
-![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/2c75001f-e7f7-439f-aead-352aa1cbc954)
+
+Menu tampilan login
+![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/f550ecf4-cfdd-4ace-aace-0bac67f6add9)
+
+Tampilan dashboard website
+![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/a4ecf2a1-d785-4f67-906f-39335853ebcf)
+
+Tampilan daftar produk
+![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/b321a9a0-56ec-429f-9c2a-78abca453c15)
+
+Tampilan detail produk
+![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/07b96dc3-71c1-4cfd-9e46-5ebd1b2c02b1)
+
+Tampilan menu kelola admin
+![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/255f039f-e786-40ad-bffa-f1c58c11b476)
+
+Tampilan Keranjang Produk
+![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/a61518c3-da65-41b2-9221-fabf0676fbb7)
+
+Tampilan menu daftar order
+![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/3d8b5aa8-5e3f-4ab2-91a0-e8b6b9f48bd0)
+
+Tampilan checkout produk
+![image](https://github.com/shilnaprdisa/SistemPenjualan/assets/113671337/bf965669-5aec-4d84-be29-6aa65a016609)
 
 
